@@ -4,11 +4,11 @@ This is based on `_s` Starter Theme, and it includes the final version of the st
 
 ## Requirments 
 
-    -   Node.JS MUST BE INSTALLED
+-   Node.JS MUST BE INSTALLED
 
-    -   Docker MUST BE INSTALLED
-    
-    -   WordPress Image from my `https://github.com/MickSawy3r/Docker-WordPress-Plugin`
+-   Docker MUST BE INSTALLED
+
+-   WordPress Image from my `https://github.com/MickSawy3r/Docker-WordPress-Plugin`
 
 ## installing
 
@@ -16,12 +16,12 @@ This Repo is ment to be mixed with my other repo `https://github.com/MickSawy3r/
 
 To Start using this 
 
-    1- clone `https://github.com/MickSawy3r/Docker-WordPress-Plugin`
+1- clone `https://github.com/MickSawy3r/Docker-WordPress-Plugin`
 
-    2- download this Repo
+2- download this Repo
 
-    3- put this repo in `/file To Docker Repo/ wordpress/theme`
+3- put this repo in `/file To Docker Repo/ wordpress/theme`
 
-    4- navigate to `/file To Docker Repo/ wordpress/theme/gulp-dev`
+4- navigate to `/file To Docker Repo/ wordpress/theme/gulp-dev`
 
-    5- run using `$ gulp`
+5- run using `$ gulp`

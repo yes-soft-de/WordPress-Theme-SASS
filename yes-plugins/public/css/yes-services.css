@@ -1,0 +1,20 @@
+.container-section{
+    min-height: 80vh;
+}
+
+.service-name{
+    text-align: center;
+}
+
+.service-more{
+    text-align: center;
+}
+
+.slider-image-small{
+    height: 20vh;
+    width: 100%;
+}
+.slider-image-large{
+    height: 40vh;
+    width: 100%;
+}

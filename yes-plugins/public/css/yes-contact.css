@@ -1,0 +1,32 @@
+#yes-contact-right{
+    background-color: #45A9B7;
+    color: #FFFFFF;
+    min-height: 80vh;
+}
+
+#yes-contact-msg{
+    color: #FFFFFF;
+    font-size: 2em;
+}
+
+#yes-contact-email{
+    color: #FFFFFF;
+    text-decoration: underline;
+    font-size: 2em;
+    text-align: center;
+
+}
+
+#yes-contact-phone{
+    color: #FFFFFF;
+
+    font-size: 2em;
+}
+
+#yes-contact-left{
+    min-height: 80vh;
+}
+
+#yes-contact-form-container{
+    height: 100%;
+}

@@ -1,0 +1,38 @@
+.site-header {
+    background-color: $color__yes_light;
+    position: relative;
+    font-weight: 700;
+    a{
+        color: $color__yes_dark;
+        size: 24px;
+        padding: 1em; 
+    }
+}
+ 
+.site-branding {
+    float: left;
+    height: 90px;
+    flex: 1 0 auto;
+}
+
+#btn_get_quote{
+    background-color: $color__yes_orange;
+    color: $color__yes_light;
+    font-weight: 700;
+    font-size: 1.5rem;
+}
+
+
+#menu-toggle{
+    background-color: $color__yes_dark;
+}
+
+.navbar{
+    div{
+        display: flex;
+    }
+    padding: 0px;
+}
+
+// Header Menu
+@import "header_menu";
